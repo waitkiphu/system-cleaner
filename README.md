@@ -20,4 +20,4 @@
  Автор
 
 Проект создан для практики.  
-Автор: Данила GitHub: [waitkiphu](https://github.com/waitkiphu))
+Автор: Данила GitHub: [waitkiphu](https://github.com/waitkiphu)
